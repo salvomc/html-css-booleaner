@@ -66,17 +66,21 @@ h1{
 #firstp{
     margin-left: 10px;
     margin-bottom: 20px;
+    font-size: 15px;
 }
 
 ul{
     margin-left: 25px;
     margin-bottom: 20px;
+    font-size: 15px;
 }
 
 table{
     border-collapse: collapse;
     margin-left: 10px;
     margin-right: 10px;
+    margin-bottom: 20px;
+    font-size:15px;
 }
 
 .tablecolor{
@@ -94,3 +98,8 @@ th,tr{
     width: 800px;
 }
 
+#secondp{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
