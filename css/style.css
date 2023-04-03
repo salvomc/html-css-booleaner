@@ -68,7 +68,29 @@ h1{
     margin-bottom: 20px;
 }
 
-#list{
+ul{
     margin-left: 25px;
     margin-bottom: 20px;
 }
+
+table{
+    border-collapse: collapse;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.tablecolor{
+    background-color: rgba(139, 238, 255, 0.751);
+}
+
+th{
+    color: white;
+    background-color: rgb(29, 171, 227);
+    text-align: left;
+    height: 10px;
+}
+
+th,tr{
+    width: 800px;
+}
+
