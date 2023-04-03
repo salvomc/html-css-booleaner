@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    width: 75%;
+    margin: 0 auto;
+}
+
+/* inizio header */
+header{
+    height: 100px;
+    background-color: #4ea0ff;
+    background-image: url('../img/pattern.png');
+    background-size: 30%;
+}
+
+.logo-header{
+    height: 50px;
+    margin-top: 40px;
+}
