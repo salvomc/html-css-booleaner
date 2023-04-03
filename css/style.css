@@ -103,3 +103,46 @@ th,tr{
     margin-bottom: 20px;
     font-size: 15px;
 }
+
+#mightinterest{
+    color: grey;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+#mightinterest1{
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-image: url(../img/monitor.jpg);
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    background-size: 230px;
+}
+
+#textmightinterest1{
+    color: white;
+    font-weight: 800;
+    font-size: 19px;
+}
+
+#mightinterest2{
+    height: 150px;
+    width: 200px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-image: url(../img/graph.jpg);
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    background-size: 230px;
+}
+
+#textmightinterest2{
+    color: white;
+    font-weight: 800;
+    font-size: 19px;
+}
